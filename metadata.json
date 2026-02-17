@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Retratos Profesionales",
+  "description": "Una aplicación para generar retratos fotográficos profesionales de una pareja utilizando dos imágenes de referencia y una descripción detallada. La IA combina los rostros y características de las imágenes de referencia en una nueva escena cohesiva.",
+  "requestFramePermissions": []
+}
