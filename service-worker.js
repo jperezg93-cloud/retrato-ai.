@@ -1,7 +1,7 @@
 
 // CAMBIA ESTE NUMERO CADA VEZ QUE ACTUALICES EL CÓDIGO (v1 -> v2 -> v3...)
 // Esto forzará a los celulares a descargar la nueva versión.
-const CACHE_NAME = 'retrato-ai-v2';
+const CACHE_NAME = 'retrato-ai-v3';
 
 const urlsToCache = [
   '/',
